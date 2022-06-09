@@ -25,9 +25,13 @@ https://www.w3schools.com/css/default.asp
 https://www.w3schools.com/js/default.asp
 ```
 
-4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)
+>4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)
 
-5.*Lógica de Programação Aplicada ao JavaScript
+```
+https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
+```
+
+>5.*Lógica de Programação Aplicada ao JavaScript
 6.*Orientação a Objetos* Aplicada ao JavaScript/TypeScript
 7.Frameworks JavaScript: Angular,React e Vue.js
 8.Linguagem C#: Básico, Intermediário e Avançado
