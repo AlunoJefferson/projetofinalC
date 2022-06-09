@@ -32,6 +32,34 @@ https://docs.microsoft.com/pt-br/learn/modules/introduction-to-github/
 ```
 
 >5.*Lógica de Programação Aplicada ao JavaScript
+
+**Racha Cuca**
+```
+https://rachacuca.com.br/
+```
+**Lógica de Programação EAD SENAI**
+
+```
+https://loja.mundosenai.com.br/senainacional/logica-de-programac-o-1-1-1-1-1
+```
+
+**Kata Dojo**
+
+```
+https://codingdojo.org/kata/
+```
+
+**BeeCrowd**
+
+```
+https://www.beecrowd.com.br/judge/en/login
+```
+
+**JavaScript**
+```
+https://www.w3schools.com/js/default.asp
+```
+
 6.*Orientação a Objetos* Aplicada ao JavaScript/TypeScript
 7.Frameworks JavaScript: Angular,React e Vue.js
 8.Linguagem C#: Básico, Intermediário e Avançado
