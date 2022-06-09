@@ -8,14 +8,25 @@
 **Conteúdo Programático**<br>
 *Lista de Conteúdos*
 
-1.HTML - Linguagem de Marcação de Textos (**estrutura**)<br>
+>1.HTML - Linguagem de Marcação de Textos (**estrutura**)<br>
 
 ```
 https://www.w3schools.com/html/default.asp
 ```
-2.CSS - Linguagem de Estilização (cores,fontes,background...)
-3.JavaScript - Linguagem de Programação Script (**funcionalidade**)
+>2.CSS - Linguagem de Estilização (cores,fontes,background...)
+
+```
+https://www.w3schools.com/css/default.asp
+```
+
+>3.JavaScript - Linguagem de Programação Script (**funcionalidade**)
+
+```
+https://www.w3schools.com/js/default.asp
+```
+
 4.Git-GitHub - **Versionamento** de Código(clone,pull,push,commit,merge)
+
 5.*Lógica de Programação Aplicada ao JavaScript
 6.*Orientação a Objetos* Aplicada ao JavaScript/TypeScript
 7.Frameworks JavaScript: Angular,React e Vue.js
