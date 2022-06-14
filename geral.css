@@ -3,12 +3,28 @@
 #topo{
     width: 100%;
     height: 120px;
-    border: 3px solid green;
+    border: 1px solid green;
     background-color: #1673be;
     color: #ffffff;
-text-transform:;
+text-transform:uppercase;
 }
 
+#logo{
+    margin-left: 50px;
+    margin-top: 15px;
+    font-size: 25px;
+}
+
+nav{
+    position: absolute;
+    top:45px;
+    left:400px;
+
+}
+nav img{
+    width: 47px;
+    height: 47px;
+}
 .abaixodevinte{
     color: blue;
 }
@@ -20,23 +36,43 @@ text-transform:;
 body{
     background-color: cornsilk;
 }
-/*pai*/
-ul{
-    width: 100%;
-    height: 17px;
-    border:1px solid red;
     
 
-}
 /*filho*/
 ul li{
    display: inline;
    padding-left: 80px;
+   width: 50px;
+   height: 50px;
 
 }
 /*neto*/
-ul li a:hover{
-    background-color: coral;
+ul li a{
+    
+    text-decoration:none;
     color: black;
 }
+ul li a:hover{
 
+    background-color: coral;
+    width: 50px;
+
+
+}
+#principal{
+
+    width:100%;
+    height:500px;
+    border: 2px solid red;
+
+}
+
+#rodape{
+    width:100%;
+    height:50px;
+    border:2px solid red;
+}
+#busca{
+    text-align: right;  
+    margin-right: 20px;
+   }
